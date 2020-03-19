@@ -15,5 +15,9 @@
 		"homepage": "http://www.matiasmeno.com"
 	}],
 	"license": "MIT",
-	"minimum-stability": "dev"
+	"minimum-stability": "dev",
+	"replace": {
+		"enyo/dropzone": "*",
+		"enyo-drupal/dropzone": "*"
+	}
 }
